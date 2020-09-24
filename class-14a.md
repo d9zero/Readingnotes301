@@ -1,4 +1,5 @@
-# Class 02
+# Class 14a - DATABASE NORMALIZATION
+
 
 ## Navigation ##
  - [class 01](class-01.md)
@@ -16,4 +17,11 @@
  - [class 13](class-13.md)
  - [class 14a](class-14a.md)
  - [class 14b](class-14b.md)
+ <!-- - [class 15](class-15.md)
+ - [class 16](class-16.md)
+ - [class 17](class-17.md)
+ - [class 18](class-18.md) -->
+
+## Reading
+[Essential: Database Normalization Explained in Simple English](https://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/)
 
